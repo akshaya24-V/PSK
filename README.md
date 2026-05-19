@@ -13,6 +13,7 @@ Quadrature Phase Shift Keying (QPSK) is an advanced form of PSK in which four di
 In this experiment, random binary data is generated and used as the message signal. A sinusoidal carrier signal is generated and phase-shifted according to the input bits to obtain the PSK/QPSK modulated signal. During demodulation, the received signal is multiplied with the carrier signal and passed through a low-pass filter to recover the original binary data. The waveforms of the message signal, carrier signal, modulated signal, and demodulated output are observed using Python in Google Colab.
 
 # Program
+# PSK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
