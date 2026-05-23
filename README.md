@@ -1,9 +1,17 @@
-# PSK / QPSK
+# Experimental verification of Phase Shift Keying and Quadrature Phase Shift Keying
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 
 # Tools required
-python IDL 
+```
+Tools Required 
+Google Colab 
+Python 
+NumPy Library 
+Matplotlib Library 
+Internet Connection 
+Computer / Laptop 
+```
 
 # Theory
 Phase Shift Keying (PSK) is a digital modulation technique in which the phase of the carrier signal is varied according to the digital input data. In Binary Phase Shift Keying (BPSK), two different phases are used to represent binary digits 0 and 1. Generally, 0 is represented by a carrier with 0° phase shift and 1 is represented by a carrier with 180° phase shift. PSK provides better noise immunity and efficient bandwidth utilization compared to amplitude modulation techniques.
